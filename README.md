@@ -1,251 +1,192 @@
-Bilkul. Is baar **simple portfolio nahi** — ek polished **dark / hacker / cybersecurity engineer** style README bana raha hoon, but still professional enough for recruiters/developers.
+<div align="center">
+👋 Hi, I'm Jack
+Python Developer · Automation · Developer Tools · Security
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Python+Developer+%F0%9F%90%8D;Automation+%26+Developer+Tools+%E2%9A%A1;Linux+%26+Security+Enthusiast+%F0%9F%94%90;Build.+Break.+Learn.+Repeat." alt="Typing SVG" />
 
- Maine tumhara email aur Telegram bhi directly add kar diya hai. Fake achievements/skills nahi daale; sections ko aisa rakha hai ki tum actual projects ke saath fill kar sako.
+<br><br>
 
- Jack — Hacker Style Professional GitHub Profile
+<a href="https://github.com/jackpydev"> <img src="https://img.shields.io/github/followers/jackpydev?style=for-the-badge&logo=github&label=Followers&color=00ff88&labelColor=0d1117" alt="GitHub Followers"> </a> <img src="https://komarev.com/ghpvc/?username=jackpydev&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS" alt="Profile Views"> </div>
+🖥️ $ whoami
+┌──(jack㉿github)-[~]
+└─$ whoami
 
-\<div align="center"\> # `>_ JACK`
+jack
 
- ### `Python Developer • Automation Engineer • Security Enthusiast`
+┌──(jack㉿github)-[~]
+└─$ cat about.txt
 
- \<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=Building+tools+that+solve+real+problems.;Python+%7C+Linux+%7C+Automation+%7C+Security;Turning+ideas+into+working+software.;Always+learning.+Always+building." alt="Typing SVG" /\> \<br\> \<img src="https://komarev.com/ghpvc/?username=jackpydev&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge" alt="Profile Views" /\> \<img src="https://img.shields.io/github/followers/jackpydev?label=FOLLOWERS&style=for-the-badge&color=111111&logo=github" alt="Followers" /\> \</div\>
----
+Python developer focused on automation,
+developer tools, APIs, Linux and security.
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                       SYSTEM PROFILE                         │
-├──────────────────────────────────────────────────────────────┤
-│  USER       : JACK                                           │
-│  HANDLE     : @jackpydev                                     │
-│  LOCATION   : INDIA                                          │
-│  PRIMARY    : PYTHON                                         │
-│  ENVIRONMENT: LINUX                                          │
-│  INTERESTS  : AUTOMATION / TOOLS / SECURITY                  │
-│  STATUS     : BUILDING                                       │
-└──────────────────────────────────────────────────────────────┘
-```
+I build practical tools, experiment with new
+technologies and learn by breaking problems
+down into smaller pieces.
 
- ## `$ whoami`
+> Build something useful.
+> Understand how it works.
+> Make it better.
 
- I'm **Jack**, a developer focused on building practical software, automation tools and developer utilities.
+⚡ What I Do
+<table> <tr> <td width="50%">
+🐍 Python Development
 
- My main environment is **Python + Linux**, with a growing interest in cybersecurity, security research and systems.
+Automation scripts
 
- I like taking an idea, breaking the problem down, writing the code and turning it into something actually useful.
+CLI applications
 
-```
-class Jack:
+API integrations
 
-    name = "Jack"
-    username = "jackpydev"
+Backend development
 
-    languages = [
-        "Python",
-        "JavaScript",
-        "Bash",
-        "SQL"
-    ]
+Developer utilities
 
-    interests = [
-        "Automation",
-        "Developer Tools",
-        "Cybersecurity",
-        "Security Research",
-        "Linux",
-        "Open Source"
-    ]
+</td> <td width="50%">
+🔐 Security
 
-    mindset = "Build. Break. Learn. Improve."
-```
+CTF & security labs
 
----
+Linux
 
- ## `$ cat /etc/interests`
+Web security fundamentals
 
-```
-[01] PYTHON
-     ├── Automation
-     ├── CLI Applications
-     ├── API Development
-     ├── Scripting
-     └── Tooling
+Security automation
 
-[02] SECURITY
-     ├── CTF
-     ├── Security Research
-     ├── Web Security
-     ├── Linux
-     └── Defensive Security
+Defensive research
 
-[03] DEVELOPER TOOLS
-     ├── CLI Utilities
-     ├── Workflow Automation
-     ├── API Tools
-     └── Productivity Tools
+</td> </tr> <tr> <td width="50%">
+⚙️ Automation
 
-[04] SYSTEMS
-     ├── Linux
-     ├── Git
-     ├── Docker
-     └── Networking
-```
+Workflow automation
 
----
+API automation
 
- ## `$ tech --stack`
+Data processing
 
- ### Languages
+File management
 
- \<p\> \<img src="https://skillicons.dev/icons?i=python,js,ts,bash,sql" alt="Languages" /\> \</p\> ### Development & Infrastructure
+Productivity tools
 
- \<p\> \<img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,fastapi,flask" alt="Development Stack" /\> \</p\> ### Databases & Systems
+</td> <td width="50%">
+🛠️ Developer Tools
 
- \<p\> \<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,nginx" alt="Database Stack" /\> \</p\>
----
+CLI utilities
 
- ## `$ ls ~/projects`
+Git tools
 
- > A selection of projects, tools and experiments.
+Python packages
 
- \<table\> \<tr\> \<td width="50%"\> ### 🐍 Python Tools
+System utilities
 
- Utilities and scripts designed to automate repetitive tasks and simplify development workflows.
+Experimental projects
 
- `Python` `CLI` `Automation`
+</td> </tr> </table>
+🧰 Tech Stack
+Languages
+<p> <img src="https://skillicons.dev/icons?i=python,javascript,typescript,bash,sql" alt="Languages"> </p>
+Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,postman" alt="Tools"> </p>
+Backend & Databases
+<p> <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,mongodb,sqlite,redis,nginx" alt="Backend"> </p>
+🚀 Featured Projects
+<table> <tr> <td width="50%">
+🐍 Python Toolkit
 
- \</td\> \<td width="50%"\> ### ⚡ Automation
+A collection of practical Python utilities for automation, development and everyday workflows.
 
- Tools for automating workflows, APIs, files, data and repetitive operations.
+Stack: Python CLI Automation
 
- `Python` `APIs` `Automation`
+<a href="https://github.com/jackpydev"> View Projects → </a> </td> <td width="50%">
+⚡ Automation Lab
 
- \</td\> \</tr\> \<tr\> \<td width="50%"\> ### 🔐 Security Research
-
- Educational security tooling, CTF experiments and defensive security projects.
-
- `Python` `Linux` `Security`
-
- \</td\> \<td width="50%"\> ### 🛠️ Developer Utilities
-
- Small tools built to make development faster, cleaner and more efficient.
-
- `Python` `Git` `CLI`
-
- \</td\> \</tr\> \</table\>
----
-
- ## `$ cat ~/currently_working_on.txt`
-
-```
-> Improving Python architecture
-> Building useful CLI utilities
-> Learning advanced Linux
-> Exploring cybersecurity
-> Experimenting with APIs
-> Improving backend development
-> Building open-source projects
-```
-
----
-
- ## `$ python --version`
-
-```
-Python
-████████████████████████████████████████  Primary
-
-JavaScript
-██████████████████████████░░░░░░░░░░░░░░  Secondary
-
-Bash
-████████████████████████░░░░░░░░░░░░░░░░  Systems
-
-SQL
-██████████████████████░░░░░░░░░░░░░░░░░░  Databases
-```
-
----
-
- ## `$ security --profile`
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    SECURITY INTERESTS                       │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  [✓] Linux & Networking                                     │
-│  [✓] CTF / Capture The Flag                                 │
-│  [✓] Web Security Fundamentals                              │
-│  [✓] Security Automation                                    │
-│  [✓] Python Security Tooling                                │
-│  [✓] Defensive Security                                    │
-│                                                             │
-│  > Learning continuously...                                 │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
- > Security projects and experiments are intended for **authorized testing, education and defensive research**.
-
----
-
- ## `$ git stats`
-
- \<p align="center"\> \<img height="170" src="https://github-readme-stats.vercel.app/api?username=jackpydev&show\_icons=true&hide\_border=true&rank\_icon=github&bg\_color=0d1117&title\_color=00ff88&icon\_color=00ff88&text\_color=c9d1d9" alt="GitHub Stats" /\> \<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackpydev&layout=compact&hide\_border=true&bg\_color=0d1117&title\_color=00ff88&text\_color=c9d1d9" alt="Top Languages" /\> \</p\>
----
-
- ## `$ git log --oneline`
-
-```
-> build: new automation utilities
-> feat: improve developer tooling
-> research: security experiments
-> refactor: cleaner Python architecture
-> learn: explore new technologies
-> repeat: build something useful
-```
-
----
-
- ## `$ cat philosophy.txt`
-
-```
-┌────────────────────────────────────────────────────┐
-│                                                    │
-│  "Don't just use tools. Understand how they work." │
-│                                                    │
-│  Learn → Build → Break → Understand → Improve     │
-│                                                    │
-└────────────────────────────────────────────────────┘
-```
-
----
-
- ## `$ uptime`
-
-```
-STATUS     : ONLINE
-MODE       : BUILDING
-FOCUS      : PYTHON / AUTOMATION / SECURITY
-MISSION    : LEARN • BUILD • SHARE
-```
-
----
-
- ## `$ connect`
-
- \<p align="center"\> \<a href="https://github.com/jackpydev"\> \<img src="https://img.shields.io/badge/GitHub-@jackpydev-0d1117?style=for-the-badge&logo=github&logoColor=00ff88" /\> \</a\> \<a href="https://t.me/vcxah"\> \<img src="https://img.shields.io/badge/Telegram-@vcxah-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff88" /\> \</a\> \<a href="mailto:jackpy@hi2.in"\> \<img src="https://img.shields.io/badge/Email-jackpy%40hi2.in-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88" /\> \</a\> \</p\>
----
-
- \<div align="center"\>
-```
-╔══════════════════════════════════════════════╗
-║                                              ║
-║       CODE  •  BUILD  •  BREAK  •  LEARN    ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
- ### `> Thanks for visiting. Keep building. ⚡`
-
- \</div\>
+Experiments and tools for automating repetitive tasks and API-based workflows.
+
+Stack: Python REST API Automation
+
+<a href="https://github.com/jackpydev"> View Projects → </a> </td> </tr> <tr> <td width="50%">
+🔐 Security Lab
+
+Educational security experiments, CTF utilities and defensive security tooling.
+
+Stack: Python Linux Security
+
+<a href="https://github.com/jackpydev"> View Projects → </a> </td> <td width="50%">
+🛠️ Developer Utilities
+
+Small tools designed to make development workflows faster and easier.
+
+Stack: Python Git CLI
+
+<a href="https://github.com/jackpydev"> View Projects → </a> </td> </tr> </table>
+📊 GitHub Analytics
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=jackpydev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackpydev&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9" alt="Top Languages"> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=jackpydev&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=jackpydev&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"> </div>
+🔥 Current Focus
+╭────────────────────────────────────────────╮
+│                                            │
+│  🐍 Advanced Python                       │
+│  ⚙️  Automation & Tooling                 │
+│  🌐 APIs & Backend                        │
+│  🐧 Linux & Systems                       │
+│  🔐 Cybersecurity & CTF                   │
+│  🐳 Docker & Development Infrastructure   │
+│  🚀 Open Source                           │
+│                                            │
+╰────────────────────────────────────────────╯
+
+🧪 Development Environment
+OS          → Linux
+Editor      → VS Code
+Terminal    → Bash
+Primary     → Python
+Versioning  → Git / GitHub
+Containers  → Docker
+Database    → PostgreSQL / SQLite
+API         → REST
+
+🔐 Security Mindset
+        ┌───────────────┐
+        │    OBSERVE    │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │   UNDERSTAND  │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │     TEST      │
+        └───────┬───────┘
+                ↓
+        ┌───────────────┐
+        │    SECURE     │
+        └───────────────┘
+
+
+I explore security through authorized labs, CTFs, defensive research and controlled environments.
+
+💻 Terminal
+jack@github:~$ python3 --version
+Python 3.x
+
+jack@github:~$ git status
+On branch main
+nothing to commit, working tree clean
+
+jack@github:~$ echo $FOCUS
+PYTHON AUTOMATION SECURITY
+
+jack@github:~$ echo $MOTTO
+Build. Break. Learn. Repeat.
+
+jack@github:~$ █
+
+📫 Connect With Me
+<div align="center"> <a href="mailto:jackpy@hi2.in"> <img src="https://img.shields.io/badge/Email-jackpy%40hi2.in-00ff88?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"> </a> <a href="https://t.me/vcxah"> <img src="https://img.shields.io/badge/Telegram-@vcxah-00ff88?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram"> </a> <a href="https://github.com/jackpydev"> <img src="https://img.shields.io/badge/GitHub-jackpydev-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"> </a> </div>
+<div align="center">
+SYSTEM STATUS: ONLINE 🟢
+CODE  →  BUILD  →  BREAK  →  LEARN  →  REPEAT
+
+
+Thanks for visiting my profile.
+
+</div>
