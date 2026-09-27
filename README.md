@@ -1,229 +1,99 @@
+<h1 align="center">Hi 👋, I'm Jack</h1> <p align="center"> <strong>Python Developer · Automation · Developer Tools · Security Research</strong> </p> <p align="center"> <a href="https://github.com/jackpydev"> <img src="https://komarev.com/ghpvc/?username=jackpydev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /> </a> <a href="https://github.com/jackpydev?tab=followers"> <img src="https://img.shields.io/github/followers/jackpydev?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" /> </a> </p> <p align="center"> <a href="https://github.com/jackpydev"> <img src="https://img.shields.io/badge/GitHub-jackpydev-181717?style=flat&logo=github" alt="GitHub" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+About Me
 
-# 👋 Hey, I'm Jack
+I'm a developer from India focused on building practical software with Python, automation, APIs, and developer tooling.
 
-### 🐍 Python Developer • Automation Enthusiast • Developer Tools Builder • Problem Solver
+I enjoy solving repetitive problems with code, building command-line utilities, experimenting with new technologies, and learning through real-world projects.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Python+Script+Developer+%F0%9F%90%8D;Automation+%26+Developer+Tools+%E2%9A%A1;Building+Useful+Things+%F0%9F%9B%A0%EF%B8%8F;Code.+Automate.+Build.+Repeat.+%F0%9F%94%A5" />
-</p>
+🐍 Python is my primary language
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00ff9c&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=00ff9c" />
-</p>
+⚙️ Interested in automation and developer productivity
 
----
+🔌 Building tools around APIs and integrations
 
-## 🚀 About Me
+🔐 Exploring cybersecurity and security research
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "YOUR_NAME"
-        self.role = "Python Script Developer"
-        self.language = ["Python", "JavaScript", "Bash"]
-        self.focus = [
-            "Automation",
-            "Developer Tools",
-            "CLI Applications",
-            "APIs",
-            "Security Research",
-            "Problem Solving"
-        ]
-        self.currently_building = "Cool tools & useful automation"
+🐧 Comfortable working with Linux
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! 👋")
+🚀 Interested in open-source development
 
-me = Developer()
-me.say_hi()
-````
+📚 Currently improving my backend and systems knowledge
 
----
+Tech Stack
+Languages
+<p> <img src="https://skillicons.dev/icons?i=python,js,ts,bash,sql" alt="Languages" /> </p>
+Development
+<p> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,fastapi,flask" alt="Development Tools" /> </p>
+Databases & Infrastructure
+<p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,redis,nginx" alt="Databases and Infrastructure" /> </p>
+Python Ecosystem
+<p> <img src="https://img.shields.io/badge/Requests-2C5F8A?style=flat-square" alt="Requests" /> <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square" alt="BeautifulSoup" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" /> <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="Pytest" /> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" alt="Pydantic" /> </p>
+What I Build
+Area	Focus
+🐍 Python	Scripts, applications and utilities
+⚙️ Automation	Workflow and task automation
+🛠️ Developer Tools	CLI tools and productivity utilities
+🌐 APIs	REST APIs, integrations and webhooks
+🔐 Security	CTFs, research and defensive tooling
+🐧 Linux	CLI workflows and system tooling
+Featured Projects
+🔹 Project Name
 
- ## 🧰 Tech Stack
+A short explanation of the project, what problem it solves, and why it was built.
 
- ### 👨‍💻 Languages
+Python · Automation · CLI
 
- \<p\> \<img src="https://skillicons.dev/icons?i=python,js,ts,bash,html,css,json" /\> \</p\> ### ⚙️ Tools & Technologies
+View Repository →
 
- \<p\> \<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,docker,sqlite,mongodb,postman" /\> \</p\>
----
+🔹 Project Name
 
- ## 🔥 What I Build
+A practical developer tool designed to simplify a repetitive workflow.
 
-```
-🐍 Python Scripts
-⚡ Automation Tools
-🛠️ Developer Utilities
-💻 CLI Applications
-🌐 API Integrations
-🔌 Bots & Webhooks
-📊 Data Processing Tools
-🔐 Security / CTF Utilities
-🤖 Workflow Automation
-🧪 Experimental Projects
-```
+Python · API · Developer Tools
 
----
+View Repository →
 
- ## 🛠️ Featured Projects
+🔹 Project Name
 
- | Project | Description | Tech |
-| --- | --- | --- |
-| 🔥 Project One | Powerful automation toolkit | Python |
-| ⚡ Project Two | Developer productivity CLI | Python / Bash |
-| 🛡️ Project Three | Security research utilities | Python |
-| 🤖 Project Four | API & workflow automation | Python / REST |
-| 📦 Project Five | Useful developer utilities | Python |
+A security-focused project created for learning, experimentation and research.
 
-> ⭐ Check my repositories for more projects, experiments and tools.
+Python · Linux · Security
 
----
+View Repository →
 
- ## 🐍 Python Arsenal
+GitHub Statistics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jackpydev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170" alt="GitHub Statistics" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackpydev&layout=compact&hide_border=true&theme=transparent" height="170" alt="Most Used Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=jackpydev&hide_border=true&theme=transparent" alt="GitHub Contribution Streak" /> </p>
+Current Focus
+Python
+  ├── Automation
+  ├── CLI Applications
+  ├── API Development
+  └── Developer Utilities
 
-```
-TOOLS = {
-    "Automation": [
-        "File Automation",
-        "Web Automation",
-        "Task Automation",
-        "API Automation"
-    ],
+Backend
+  ├── REST APIs
+  ├── Databases
+  ├── Authentication
+  └── Docker
 
-    "Development": [
-        "CLI Tools",
-        "REST APIs",
-        "Webhooks",
-        "Package Development"
-    ],
+Security
+  ├── CTF
+  ├── Security Research
+  ├── Linux
+  └── Defensive Tooling
 
-    "Security": [
-        "CTF Utilities",
-        "Recon Automation",
-        "Log Analysis",
-        "Security Research"
-    ],
+Development Philosophy
 
-    "Data": [
-        "JSON",
-        "CSV",
-        "SQLite",
-        "Data Processing"
-    ]
-}
+Build useful things.
 
-for category, tools in TOOLS.items():
-    print(f"\n[{category}]")
-    for tool in tools:
-        print(f"  └── {tool}")
-```
+Keep the implementation simple.
 
----
+Automate repetitive work.
 
- ## 📊 GitHub Stats
+Learn by building.
 
- \<p align="center"\> \<img src="https://github-readme-stats.vercel.app/api?username=YOUR\_USERNAME&show\_icons=true&theme=chartreuse-dark&hide\_border=true" height="180"/\> \<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR\_USERNAME&layout=compact&theme=chartreuse-dark&hide\_border=true" height="180"/\> \</p\>
----
+Improve continuously.
 
- ## 🔥 Contribution Streak
-
- \<p align="center"\> \<img src="https://streak-stats.demolab.com?user=YOUR\_USERNAME&theme=matrix&hide\_border=true" /\> \</p\>
----
-
- ## 🐍 Contribution Snake
-
- \<p align="center"\> \<img src="https://raw.githubusercontent.com/YOUR\_USERNAME/YOUR\_USERNAME/output/github-contribution-grid-snake.svg" /\> \</p\>
----
-
- ## 💻 My Developer Philosophy
-
-```
-        ┌───────────────────────────┐
-        │       BUILD SOMETHING     │
-        └─────────────┬─────────────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │    LEARN      │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │   AUTOMATE    │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │    IMPROVE    │
-              └───────┬───────┘
-                      │
-                      └──────────► 🔁
-```
-
- > **"If you can automate it, you can build it."**
-
----
-
- ## 🎯 Current Goals
-
- - 🐍 Improve Python architecture & clean code
-- 🛠️ Build useful developer tools
-- ⚡ Automate repetitive workflows
-- 🌐 Work with APIs and backend systems
-- 🔐 Learn more about defensive security & CTFs
-- 🚀 Create open-source projects
-- 📚 Keep learning something new every day
-
----
-
- ## 📚 Currently Learning
-
-```
-Python Advanced Concepts
-        ↓
-Async Programming
-        ↓
-REST APIs & Backend
-        ↓
-Docker & Linux
-        ↓
-Security Research
-        ↓
-Open Source Development
-```
-
----
-
- ## 🌐 Connect With Me
-
- \<p align="left"\> \<a href="https://github.com/YOUR\_USERNAME"\> \<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/\> \</a\> \<a href="https://linkedin.com/in/YOUR\_LINKEDIN"\> \<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/\> \</a\> \<a href="mailto:YOUR\_EMAIL"\> \<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/\> \</a\> \</p\>
----
-
- ## ☕ Support My Work
-
- If you find my projects useful:
-
-```
-⭐ Star the repository
-🐛 Report bugs
-💡 Suggest improvements
-🤝 Contribute
-📢 Share with other developers
-```
-
- Every contribution helps me build better open-source tools. ❤️
-
----
-
- \<p align="center"\> ### ⚡ Code • Automate • Build • Repeat ⚡
-
- \<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff9c&height=100&section=footer"/\> \</p\> \`\`\` ### 🔧 Bas sirf ye change karna hai
-
- - `JackPyDev` → tumhara exact GitHub username
-- `Jack` → tumhara naam
-- `jackpy@hi2.in` → email
-- Featured Projects mein apne actual repositories ke naam/links daal dena.
-
- **Important:** Profile README automatically show karne ke liye repository ka naam **exactly tumhare GitHub username jaisa** hona chahiye, aur repository **public** honi chahiye.
+Connect
+<p align="left"> <a href="https://github.com/jackpydev"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+<p align="center"> <sub>Thanks for visiting my profile.</sub> </p>
